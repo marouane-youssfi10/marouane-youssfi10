@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marouane Youssfi
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Django Rest Framework
+- 🌱 I’m currently Working with Django Rest Framework
 
 <!---
 marouane-youssfi10/marouane-youssfi10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
