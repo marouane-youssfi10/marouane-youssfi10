@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marouane Youssfi
-- 👀 I’m interested in backend develoment
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning Django Rest Framework
 
 <!---
