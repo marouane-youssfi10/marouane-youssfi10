@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marouane</h1>
 <h3 align="center">A passionate Backend developer from Morocco</h3>
 
-- 🌱 I’m currently learning on **Django Rest Framework**
+- 🌱 I’m currently Working on **Django Rest Framework**
 
 - 💬 Ask me about **Django and Django Rest Framework**
 
