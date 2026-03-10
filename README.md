@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marouane</h1>
 <h3 align="center">A passionate Backend developer from Morocco</h3>
 
-- 🌱 I’m currently Working with **Django Rest Framework**
-
-- 💬 Ask me about **Django and Django Rest Framework**
-
 - 📫 How to reach me **business.youssfi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
